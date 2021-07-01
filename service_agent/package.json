@@ -41,6 +41,6 @@
     "jolocom-lib": "^5.2.1",
     "node-base64-image": "^2.0.1",
     "sqlite3": "^4",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   }
 }
